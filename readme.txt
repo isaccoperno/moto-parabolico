@@ -1,0 +1,2 @@
+ANALIZZATORE DI TRAIETTORIE CON ATTRITO (Librerie: NumPy, MatPlotlib):
+Lo scopo di questo mio primo progettino è quello di familiarizzare con le librerie sopra indicate. In particolare questo programma deve calcolare e disegnare la parabola di un proiettile o di un razzo. In particolare si parte dalla formula base della cinematica e poi si aggiunge il calcolo dell'attrito dell'aria (che dipende dalla velocità). In questo modo posso imparare ad utilizzare i vettori di array e a grafica i risultati stessi
